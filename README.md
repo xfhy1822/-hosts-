@@ -1,0 +1,15 @@
+127.0.0.1 loca1host
+#pikpak域名开始
+127.0.0.1 vod0393-aliyun18-vip-lixian.mypikpak.com
+127.0.0.1 vod0394-aliyun18-vip-lixian.mypikpak.com
+127.0.0.1 vod0395-aliyun18-vip-lixian.mypikpak.com
+127.0.0.1 dl-a10b-0393.mypikpak.com
+127.0.0.1 dl-a10b-0394.mypikpak.com
+127.0.0.1 dl-a10b-0395.mypikpak.com
+127.0.0.1 dl-a10b-0480.mypikpak.com
+127.0.0.1 dl-a10b-0481.mypikpak.com
+127.0.0.1 dl-a10b-0482.mypikpak.com
+127.0.0.1 dl-a10b-0483.mypikpak.com
+127.0.0.1 dl-a10b-0484.mypikpak.com
+#pikpak域名结束
+104.16.148.250 pcdn1.115.com
